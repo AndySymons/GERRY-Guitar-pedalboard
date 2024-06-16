@@ -1,8 +1,10 @@
-# Guitar-pedalboard
-Based on Behringer FCB1010 pedalboard, replaces the processor to control effects on Logic Pro X over MIDI. 
+# GERRY Guitar pedalboard
+
+Creates a guitar pedalboard that issues MIDI commands to operate virtual effects in Logic Pro X. Based on Behringer FCB1010 pedalboard, but replaces the processor to control effects over MIDI. 
 
 Archive from a 2018 Arduino project 
--- details to follow 
+
+-- details to follow -- 
 
 
 
